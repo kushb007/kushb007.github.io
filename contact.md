@@ -1,21 +1,7 @@
 ---
 layout: default
 title: Contact
-description: "Get in touch with me for collaboration, job opportunities, or inquiries."
+description: Contact Kush Bhagat about engineering opportunities and collaboration.
 ---
-
-<h2>Contact Me</h2>
-<p>If you have any questions or would like to work together, please feel free to reach out.</p>
-
-<form action="https://formspree.io/f/your-form-id" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" name="name" id="name" required>
-
-  <label for="email">Email:</label>
-  <input type="email" name="_replyto" id="email" required>
-
-  <label for="message">Message:</label>
-  <textarea name="message" id="message" rows="5" required></textarea>
-
-  <button type="submit">Send Message</button>
-</form>
+<section class="page-heading"><p class="eyebrow">GET IN TOUCH</p><h1>Good things start<br><em>with a conversation.</em></h1><p class="lead">For engineering opportunities, project collaborations, or a thoughtful exchange of ideas, send me a note.</p><div class="actions"><a class="button" href="mailto:kushbhagat0@gmail.com">Email Kush ↗</a></div></section>
+<section class="contact-links"><a href="mailto:kushbhagat0@gmail.com"><span class="eyebrow">EMAIL</span><span>kushbhagat0@gmail.com ↗</span></a><a href="https://www.linkedin.com/in/kushbhagat7/"><span class="eyebrow">LINKEDIN</span><span>Let's connect ↗</span></a><a href="https://github.com/kushb007"><span class="eyebrow">GITHUB</span><span>Explore my repositories ↗</span></a></section>

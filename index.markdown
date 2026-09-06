@@ -1,19 +1,10 @@
 ---
 layout: default
-title: Home
-description: "Welcome to my portfolio website showcasing projects and skills as a software engineer."
+title: Kush Bhagat
+description: Software engineer working across distributed systems, full-stack applications, and machine learning.
 ---
-
-<section class="hero">
-  <div class="hero-content">
-    <h2 class="hero-title">Hello, I'm [Your Name]</h2>
-    <p class="hero-subtitle">Passionate about building beautiful and interactive software experiences.</p>
-    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Picture" class="profile-photo">
-  </div>
-</section>
-
-<section class="intro">
-  <h3>About Me</h3>
-  <p>I’m an entry-level software engineer dedicated to crafting fluid and engaging web interfaces. Explore my projects and learn more about my journey.</p>
-  <a href="{{ '/about' | relative_url }}" class="btn">Learn More</a>
-</section>
+<section class="hero"><div class="hero-copy"><p class="eyebrow"><span class="dot"></span> SOFTWARE ENGINEER</p><h1>Thoughtful code.<br><em>Useful things.</em></h1><p class="hero-description">I'm Kush Bhagat. I build reliable systems and applications that make complex problems easier to work with.</p><div class="actions"><a class="button" href="{{ '/portfolio' | relative_url }}">Explore my work <span aria-hidden="true">↗</span></a><a class="text-link" href="https://github.com/kushb007">GitHub ↗</a></div></div><aside class="hero-note"><span class="mono">HOW I THINK</span><p>Understand the problem.<br>Explore the tradeoffs.<br>Build with intention.</p><div class="note-bottom"><span>Systems / Interfaces / Intelligence</span><span aria-hidden="true">↗</span></div></aside></section>
+<section class="experience-strip" aria-label="Experience"><span class="eyebrow">EXPERIENCE ACROSS</span><span>Amazon</span><span>Paycom</span><span>USC Research</span></section>
+<section class="section"><div class="section-heading"><div><p class="eyebrow">SELECTED WORK</p><h2>Ideas, put into practice.</h2></div><a class="text-link" href="{{ '/portfolio' | relative_url }}">View projects ↗</a></div><a class="project-feature" href="{{ '/portfolio' | relative_url }}#bemo"><div class="project-graphic" aria-hidden="true"><span class="code-label">BEMO / ONLINE JUDGE</span><div class="code-lines"><span>read(problem)</span><span>think()</span><span class="accent">submit(solution) ↗</span></div><span class="graphic-caption">A place to practice. A reason to keep going.</span></div><div class="project-info"><p class="eyebrow">EDUCATION · FULL STACK</p><h3>Making problem solving<br>more accessible.</h3><p>An online judge for students to explore programming and mathematics through hands-on practice.</p><div class="tags"><span>Python</span><span>Flask</span><span>MySQL</span></div><span class="text-link">Explore Bemo ↗</span></div></a></section>
+<section class="section approach"><div><p class="eyebrow">BEHIND THE CODE</p><h2>Curious about the details.<br>Focused on the outcome.</h2></div><div><p>My work spans backend services, customer-facing applications, and machine learning research. I enjoy the space where careful engineering meets a real human need.</p><a class="text-link" href="{{ '/about' | relative_url }}">A little more about me ↗</a></div></section>
+<section class="contact-banner"><p class="eyebrow">LET'S CONNECT</p><h2>Have something in mind?</h2><a class="button" href="{{ '/contact' | relative_url }}">Start a conversation ↗</a></section>
