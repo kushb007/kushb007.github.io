@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work
+title: Projects
 description: Project notes on Bemo, Books Find, and Literature by Kush Bhagat.
 ---
 <header class="page-intro"><p class="eyebrow">SELECTED WORK</p><h1>Built out of curiosity<span class="name-period">.</span></h1><p class="page-lead">Learning tools, recommendations, and multiplayer systems. A closer look at what each project explores.</p></header>
